@@ -21,6 +21,7 @@ ctrl + F9 to run the whole colab notebook at once.
 
                                    Structure and Process of Execution
 ● Our project is on Face masked detection which detects masked faces.
+
 ● Tried different classifiers and finally used three different classifiers which are
 K nearest neighbour, Multilayer Perceptron and Support vectors machines.
 
